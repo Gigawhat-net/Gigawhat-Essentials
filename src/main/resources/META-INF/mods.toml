@@ -1,5 +1,5 @@
 modLoader = "javafml"
-loaderVersion = "[36.2.20,)"
+loaderVersion = "[36.2,)"
 license = "MIT"
 
 [[mods]] 
@@ -36,7 +36,7 @@ Gigawhat Essentials, a mod by Gigawhat for the Gigawhat Minecraft server.
 
     modId = "forge"
     mandatory = true
-    versionRange = "[36.2.20,)"
+    versionRange = "[36.2,)"
     ordering = "NONE"
     side = "SERVER"
 
