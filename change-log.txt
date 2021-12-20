@@ -1,0 +1,71 @@
+Gigamod Change log :
+
+Version 0.0.9 :
+
+    1. Decreased Gigalium ore spawn in the Nether.
+    2. Added advancements for Gigalium.
+
+Version 0.1.0 :
+
+    1. Added Gigalium pickaxe.
+    2. Created a creative mode menu tab for the mod.
+
+Version 0.2.0 (The Gigaland Update) :
+
+    1. Fixed Gigalium pickaxe attack damage and attack speed.
+    2. Added the "Gigaland" dimension.
+    3. Added advancements for Gigalium tools & combat equipment.
+    4. Changed & fixed Gigalium advancement tree.
+    5. Customized world generation for the Gigaland dimension.
+    6. Added a "Credits" section to the in-game mod page.
+    7. Added the Gigastone block. (Gigastone is the default block for the Gigaland dimension)
+    8. Added Gigalium tools.
+    9. Added Gigalium sword.
+    10. Removed "Metin Eren Kılıçay" from credits.
+    11. Added a test block for custom models.
+    12. Updated Forge version to 36.2.19
+    13. Added Gigaland variant of Gigalium ore.
+    14. Added translations for advancements.
+    15. Added default splashes.
+    16. Added formating for creative only blocks.
+
+
+To-do list :
+
+    1. Fix Gigalium tools & sword attack damage. (Done)
+    2. Fix Gigalium tools & sword attack speed. (Done)
+    3. Add teleporter block for Gigaland dimension. (Done)
+    4. Add Gigaland Gigalium ore. (Done, texture remaining)
+    5. Change Gigastone texture. (Done)
+    6. Add caves & carvers to Gigaland. (WIP)
+    7. Decrease Gigaland scale & depth. (Done)
+    8. Add animated loading screen. (For version 0.3)
+    9. Add modeled block with voxel shape & orientation. (Done)
+    10. Add translations for advancements. (Done)
+    11. Add Gigaland custom mob. (WIP)
+    12. Decrease Gigalium generation amount in Gigaland. (Done)
+    13. Add silver, gold and copper coins for trading. (For version 0.3)
+    14. Add special tile entity for crafting coins. (For version 0.3)
+    15. Add a calculator block. (For version 0.3)
+    16. Add a vending machine that accepts coins. (For version 0.3)
+    17. Add credit cards. (In the future)
+    18. Add crafting recipe for Gigalium tools & sword. (Done)
+    19. Add C4. (For version 0.4)
+    20. Add weapons. (For version 0.4)
+    21. Add Gigalium armor. (Done, Texture remaining)
+    22. Add Gigalium decorational items. (For version 0.5)
+    23. Add trees and decoration to Gigaland. (For version 0.5)
+    24. Add API for communication with server side mod. (For version 0.3)
+    25. Add FBI badges. (For version 0.4)
+    26. Format some item names. (Done)
+    27. Change Gigaland Gigalium ore texture.
+    28. Add splashes. (Done)
+    29. Add logging.
+
+
+Version names :
+
+    V0.2 - The Gigaland Update
+    V0.3 - The Trading Update
+    V0.4 - The Investigation Update
+    V0.5 - The Decorative update
