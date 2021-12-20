@@ -9,7 +9,6 @@ Developer : Ekin Aksu. <br>
  <br>
 #### ---- Textures & Models ----
 Texture design : Hikmet Umut Bulut, Samyar Sadat Akhavi. <br>
-Modeling : Samyar Sadat Akhavi. <br>
  <br>
 #### ---- Sound ----     
 Sound design : Samyar Sadat Akhavi, Ekin Aksu. <br>
