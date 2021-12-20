@@ -17,12 +17,11 @@ Gigawhat Essentials, a mod by Gigawhat for the Gigawhat Minecraft server.
 §6§l§o------- Credits -------§r
 
 §b§o---- Code ----§r
-§aLead developer : Samyar Sadat Akhavi
-§3Developer : Ekin Aksu
+§7Lead developer : Samyar Sadat Akhavi
+§7Developer : Ekin Aksu
 
 §e§o---- Textures & Models ----§r
 §7Texture design : Hikmet Umut Bulut, Samyar Sadat Akhavi
-§7Modeling : Samyar Sadat Akhavi
 
 §9§o---- Sound ----§r
 §7Sound design : Samyar Sadat Akhavi, Ekin Aksu
@@ -39,7 +38,7 @@ Gigawhat Essentials, a mod by Gigawhat for the Gigawhat Minecraft server.
     mandatory = true
     versionRange = "[36.2.20,)"
     ordering = "NONE"
-    side = "BOTH"
+    side = "SERVER"
 
 [[dependencies.gigawhat_essentials]]
 
@@ -47,4 +46,4 @@ Gigawhat Essentials, a mod by Gigawhat for the Gigawhat Minecraft server.
     mandatory = true
     versionRange = "[1.16, 1.16.5)"
     ordering = "NONE"
-    side = "BOTH"
+    side = "SERVER"
