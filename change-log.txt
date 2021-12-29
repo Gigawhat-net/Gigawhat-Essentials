@@ -2,5 +2,5 @@ Gigawhat Essentials Change log :
 
     Version 0.1 :
 
-        1.
+        1. Added warp command.
 
