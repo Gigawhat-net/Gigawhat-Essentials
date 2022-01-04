@@ -1,6 +1,10 @@
+// Copyright 2022 Samyar Sadat Akhavi
+// Written by Samyar Sadat Akhavi
+// Gigawhat Essentials, a mod by Gigawhat
+
 package com.samyarsadat87.essentials.world_data;
 
-import java.io.IOException;
+/*import java.io.IOException;
 
 import com.samyarsadat87.essentials.Essentials;
 
@@ -37,4 +41,4 @@ public class SaveWarpData extends WorldSavedData
     {
         return nbt;
     }
-}
+}*/

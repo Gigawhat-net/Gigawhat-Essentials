@@ -1,4 +1,4 @@
-// Copyright 2021 Samyar Sadat Akhavi
+// Copyright 2022 Samyar Sadat Akhavi
 // Written by Samyar Sadat Akhavi
 // Gigawhat Essentials, a mod by Gigawhat
 
@@ -6,13 +6,20 @@ package com.samyarsadat87.essentials;
 
 import java.lang.reflect.AnnotatedWildcardType;
 
+import javax.swing.text.html.parser.Entity;
+
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
+import net.minecraft.client.Minecraft;
+import net.minecraft.entity.player.PlayerEntity;
+import net.minecraft.entity.player.ServerPlayerEntity;
 import net.minecraft.inventory.Inventory;
 import net.minecraft.nbt.CompoundNBT;
 import net.minecraft.nbt.ListNBT;
 import net.minecraft.util.SharedConstants;
+import net.minecraft.util.text.TranslationTextComponent;
+import net.minecraft.world.server.ServerWorld;
 import net.minecraft.world.storage.DimensionSavedDataManager;
 import net.minecraft.world.storage.WorldSavedData;
 import net.minecraftforge.api.distmarker.Dist;
@@ -26,7 +33,7 @@ import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.event.lifecycle.FMLCommonSetupEvent;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 
-import com.samyarsadat87.essentials.world_data.SaveWarpData;
+//import com.samyarsadat87.essentials.world_data.SaveWarpData;
 
 @Mod(Essentials.MOD_ID)
 @OnlyIn(Dist.DEDICATED_SERVER)
@@ -46,16 +53,16 @@ public class Essentials
 
         MinecraftForge.EVENT_BUS.register(this);
 
-        LOGGER.info("Attemting to save example warp...");
+        //LOGGER.info("Attemting to save example warp...");
 
-        LOGGER.info("Warp saved.");
+        //LOGGER.info("Warp saved.");
 
-        ListNBT listnbt = new ListNBT();
-        CompoundNBT compoundnbt = new CompoundNBT();
-        SaveWarpData wp = new SaveWarpData();
+        //ListNBT listnbt = new ListNBT();
+        //CompoundNBT compoundnbt = new CompoundNBT();
+        //SaveWarpData wp = new SaveWarpData();
 
-        compoundnbt.
-        compoundnbt.put("warpcoords", wp.save(new CompoundNBT()));
+        //compoundnbt.
+        //compoundnbt.put("warpcoords", wp.save(new CompoundNBT()));
     }
 
     private void setup(final FMLCommonSetupEvent event)
