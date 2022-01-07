@@ -36,11 +36,12 @@ import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 //import com.samyarsadat87.essentials.world_data.SaveWarpData;
 
 @Mod(Essentials.MOD_ID)
-@OnlyIn(Dist.DEDICATED_SERVER)
+//@OnlyIn(Dist.DEDICATED_SERVER)
 public class Essentials 
 {
     public static final Logger LOGGER = LogManager.getLogger();
     public static final String MOD_ID = "gigawhat_essentials";
+    public static final String MESSAGE_HEAD = "\u00A77[\u00A7dSERVER\u00A77]\u00A7r ";
 
     public Essentials() 
     {

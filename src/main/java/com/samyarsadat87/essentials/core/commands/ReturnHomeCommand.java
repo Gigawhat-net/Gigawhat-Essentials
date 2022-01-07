@@ -8,10 +8,14 @@ import com.mojang.brigadier.CommandDispatcher;
 import com.mojang.brigadier.exceptions.CommandSyntaxException;
 import com.samyarsadat87.essentials.Essentials;
 
+import net.minecraft.client.world.DimensionRenderInfo.Overworld;
 import net.minecraft.command.CommandSource;
 import net.minecraft.command.Commands;
 import net.minecraft.entity.player.ServerPlayerEntity;
+import net.minecraft.server.MinecraftServer;
 import net.minecraft.util.text.StringTextComponent;
+import net.minecraft.world.World;
+import net.minecraft.world.server.ServerWorld;
 
 public class ReturnHomeCommand 
 {
@@ -19,27 +23,33 @@ public class ReturnHomeCommand
     {
         dispatcher.register(Commands.literal("home").then(Commands.literal("return").executes((command) ->
         {
-            return returnHome(command.getSource());
+            return returnHome(command.getSource(), command.getSource().getServer());
         })));
     }
 
-    private int returnHome(CommandSource source) throws CommandSyntaxException 
+    private int returnHome(CommandSource source, MinecraftServer server) throws CommandSyntaxException 
     {
         ServerPlayerEntity player = source.getPlayerOrException();
         boolean hasHomepos = player.getPersistentData().getIntArray(Essentials.MOD_ID + "homepos").length != 0;
 
         if (hasHomepos) 
         {
-            int[] playerPos = player.getPersistentData().getIntArray(Essentials.MOD_ID + "homepos");
-            player.teleportTo(playerPos[0], playerPos[1], playerPos[2]);
+            float pitch = player.yHeadRot;
+            float yaw = player.xRot;
 
-            source.sendSuccess(new StringTextComponent("Player returned Home!"), true);
+            int[] playerPos = player.getPersistentData().getIntArray(Essentials.MOD_ID + "homepos");
+            // String playerDim = player.getPersistentData().getString(Essentials.MOD_ID + "homedim");
+
+            ServerWorld dimension = server.getLevel(World.OVERWORLD);
+            player.teleportTo(dimension, playerPos[0], playerPos[1], playerPos[2], pitch, yaw);
+
+            source.sendSuccess(new StringTextComponent(Essentials.MESSAGE_HEAD + "Teleported to home!"), true);
             return 1;
         } 
         
         else 
         {
-            source.sendFailure(new StringTextComponent("No Home Position has been set!"));
+            source.sendFailure(new StringTextComponent(Essentials.MESSAGE_HEAD + "No Home Position has been set!"));
             return -1;
         }
     }

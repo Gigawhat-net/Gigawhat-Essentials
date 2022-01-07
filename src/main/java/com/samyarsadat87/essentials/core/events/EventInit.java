@@ -33,6 +33,9 @@ public class EventInit
         {
             event.getPlayer().getPersistentData().putIntArray(Essentials.MOD_ID + "homepos",
             event.getOriginal().getPersistentData().getIntArray(Essentials.MOD_ID + "homepos"));
+
+            // event.getPlayer().getPersistentData().putString(Essentials.MOD_ID + "homedim",
+            // event.getOriginal().getPersistentData().getString(Essentials.MOD_ID + "homedim"));
         }
     }
 }
