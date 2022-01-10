@@ -53,17 +53,6 @@ public class Essentials
         bus.addListener(this::setup);
 
         MinecraftForge.EVENT_BUS.register(this);
-
-        //LOGGER.info("Attemting to save example warp...");
-
-        //LOGGER.info("Warp saved.");
-
-        //ListNBT listnbt = new ListNBT();
-        //CompoundNBT compoundnbt = new CompoundNBT();
-        //SaveWarpData wp = new SaveWarpData();
-
-        //compoundnbt.
-        //compoundnbt.put("warpcoords", wp.save(new CompoundNBT()));
     }
 
     private void setup(final FMLCommonSetupEvent event)
