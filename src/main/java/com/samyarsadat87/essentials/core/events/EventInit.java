@@ -20,10 +20,14 @@ public class EventInit
     @SubscribeEvent
     public static void onCommandsRegister(RegisterCommandsEvent event) 
     {
+        Essentials.LOGGER.info("Registering commands.");
+
         new SetHomeCommand(event.getDispatcher());
         new ReturnHomeCommand(event.getDispatcher());
 
         ConfigCommand.register(event.getDispatcher());
+
+        Essentials.LOGGER.info("Commands have been registered.");
     }
 
     @SubscribeEvent

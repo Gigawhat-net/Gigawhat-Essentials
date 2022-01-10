@@ -33,8 +33,6 @@ import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.event.lifecycle.FMLCommonSetupEvent;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 
-//import com.samyarsadat87.essentials.world_data.SaveWarpData;
-
 @Mod(Essentials.MOD_ID)
 //@OnlyIn(Dist.DEDICATED_SERVER)
 public class Essentials 
@@ -48,20 +46,16 @@ public class Essentials
         IEventBus bus = FMLJavaModLoadingContext.get().getModEventBus();
 
         LOGGER.info("Gigawhat Server Essentials Mod Loading...");
-        LOGGER.info("Pre-init stage");
 
         bus.addListener(this::setup);
 
         MinecraftForge.EVENT_BUS.register(this);
+
+        LOGGER.info("Init stage complete.");
     }
 
     private void setup(final FMLCommonSetupEvent event)
     {
 
     }
-
-    public static Logger getLOGGER() 
-    {
-        return LOGGER;
-    }  
 }
