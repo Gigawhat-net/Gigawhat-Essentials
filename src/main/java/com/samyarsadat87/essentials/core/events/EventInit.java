@@ -22,8 +22,8 @@ public class EventInit
     {
         Essentials.LOGGER.info("Registering commands.");
 
-        new SetHomeCommand(event.getDispatcher());
-        new ReturnHomeCommand(event.getDispatcher());
+        // new SetHomeCommand(event.getDispatcher());
+        // new ReturnHomeCommand(event.getDispatcher());
 
         ConfigCommand.register(event.getDispatcher());
 
@@ -35,8 +35,8 @@ public class EventInit
     {
         if(!event.getOriginal().level.isClientSide()) 
         {
-            event.getPlayer().getPersistentData().putIntArray(Essentials.MOD_ID + "homepos",
-            event.getOriginal().getPersistentData().getIntArray(Essentials.MOD_ID + "homepos"));
+            // event.getPlayer().getPersistentData().putIntArray(Essentials.MOD_ID + "homepos",
+            // event.getOriginal().getPersistentData().getIntArray(Essentials.MOD_ID + "homepos"));
 
             // event.getPlayer().getPersistentData().putString(Essentials.MOD_ID + "homedim",
             // event.getOriginal().getPersistentData().getString(Essentials.MOD_ID + "homedim"));
