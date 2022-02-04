@@ -1,4 +1,4 @@
-![](https://img.shields.io/circleci/build/github/samyarsadat/Gigawhat-Essentials) ![](https://img.shields.io/github/license/samyarsadat/Gigawhat-Essentials?color=blue) ![](https://img.shields.io/github/manifest-json/v/samyarsadat/Gigawhat-Essentials) ![](https://img.shields.io/github/v/release/samyarsadat/Gigawhat-Essentials?display_name=tag)
+![](https://img.shields.io/circleci/build/github/samyarsadat/Gigawhat-Essentials) ![](https://img.shields.io/github/license/samyarsadat/Gigawhat-Essentials?color=blue) ![](https://img.shields.io/github/manifest-json/v/samyarsadat/Gigawhat-Essentials) ![](https://img.shields.io/github/v/release/samyarsadat/Gigawhat-Essentials?display_name=tag&include_prereleases)
 
 # Gigamod
 
