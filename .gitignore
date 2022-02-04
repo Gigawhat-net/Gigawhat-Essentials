@@ -12,6 +12,7 @@ out
 .idea
 
 build
+.gradle
 
 run
 
