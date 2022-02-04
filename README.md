@@ -1,4 +1,4 @@
-![](https://img.shields.io/circleci/build/github/samyarsadat/Gigawhat-Essentials)
+![](https://img.shields.io/circleci/build/github/samyarsadat/Gigawhat-Essentials) ![](https://img.shields.io/github/license/samyarsadat/Gigawhat-Essentials?color=blue)
 
 # Gigamod
 
