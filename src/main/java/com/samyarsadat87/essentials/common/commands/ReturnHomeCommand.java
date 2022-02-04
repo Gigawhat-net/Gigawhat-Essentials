@@ -1,7 +1,8 @@
+package com.samyarsadat87.essentials.common.commands;
 // Copyright 2022 Samyar Sadat Akhavi
 // Written by Samyar Sadat Akhavi
 // Gigawhat Essentials, a mod by Gigawhat
-
+/*
 package com.samyarsadat87.essentials.core.commands;
 
 import com.mojang.brigadier.CommandDispatcher;
@@ -53,4 +54,4 @@ public class ReturnHomeCommand
             return -1;
         }
     }
-}
+}*/

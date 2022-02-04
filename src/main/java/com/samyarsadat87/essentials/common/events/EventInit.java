@@ -2,17 +2,17 @@
 // Written by Samyar Sadat Akhavi
 // Gigawhat Essentials, a mod by Gigawhat
 
-package com.samyarsadat87.essentials.core.events;
+package com.samyarsadat87.essentials.common.events;
 
 import com.samyarsadat87.essentials.Essentials;
-import com.samyarsadat87.essentials.core.commands.ReturnHomeCommand;
-import com.samyarsadat87.essentials.core.commands.SetHomeCommand;
+import com.samyarsadat87.essentials.common.commands.GroupCommands;
 
 import net.minecraftforge.event.RegisterCommandsEvent;
 import net.minecraftforge.event.entity.player.PlayerEvent;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.server.command.ConfigCommand;
+import net.minecraftforge.eventbus.api.Event;
 
 @Mod.EventBusSubscriber(modid = Essentials.MOD_ID)
 public class EventInit 
@@ -24,22 +24,10 @@ public class EventInit
 
         // new SetHomeCommand(event.getDispatcher());
         // new ReturnHomeCommand(event.getDispatcher());
+        new GroupCommands(event.getDispatcher());
 
         ConfigCommand.register(event.getDispatcher());
 
         Essentials.LOGGER.info("Commands have been registered.");
-    }
-
-    @SubscribeEvent
-    public static void onPlayerCloneEvent(PlayerEvent.Clone event) 
-    {
-        if(!event.getOriginal().level.isClientSide()) 
-        {
-            // event.getPlayer().getPersistentData().putIntArray(Essentials.MOD_ID + "homepos",
-            // event.getOriginal().getPersistentData().getIntArray(Essentials.MOD_ID + "homepos"));
-
-            // event.getPlayer().getPersistentData().putString(Essentials.MOD_ID + "homedim",
-            // event.getOriginal().getPersistentData().getString(Essentials.MOD_ID + "homedim"));
-        }
     }
 }
