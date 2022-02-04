@@ -1,3 +1,4 @@
+https://img.shields.io/circleci/build/github/samyarsadat/Gigawhat-Essentials
 # Gigamod
 Gigawhat Essentials a mod by Gigawhat. <br>
  <br>
