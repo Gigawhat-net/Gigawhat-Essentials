@@ -1,6 +1,6 @@
-<center>
-	<img src="">
-	<h1>Gigawhat Essentials</h1><br>
+<p align="center">
+    <a href=""><img src="" width="200"></a>
+    <h2 align="center">Gigawhat Essetnials</h2>
 	<a href=""><img src="https://img.shields.io/circleci/build/github/samyarsadat/Gigawhat-Essentials"></a>
 	|
 	<a href=""><img src="https://img.shields.io/github/languages/top/samyarsadat/Gigawhat-Essentials?color=blueviolet"></a>
@@ -11,10 +11,10 @@
 	|
 	<a href=""><img src="https://img.shields.io/github/issues/samyarsadat/Gigawhat-Essentials"> </a>
 	<br><br>
-</center>
+</p>
 
-# Gigamod
 ----
+<br>
 Gigawhat Essentials a mod by Gigawhat. <br>
 <br>
 
