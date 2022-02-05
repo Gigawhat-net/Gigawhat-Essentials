@@ -1,6 +1,6 @@
 <center>
 	<img src="">
-	<h1>_Gigawhat Essentials_</h1><br>
+	<h1>Gigawhat Essentials</h1><br>
 	<a href=""><img src="https://img.shields.io/circleci/build/github/samyarsadat/Gigawhat-Essentials"></a>
 	|
 	<a href=""><img src="https://img.shields.io/github/languages/top/samyarsadat/Gigawhat-Essentials?color=blueviolet"></a>
