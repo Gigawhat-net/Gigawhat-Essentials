@@ -20,3 +20,7 @@ run
 forge*changelog.txt
 
 *.log
+
+debug.bat
+jar-build.bat
+setup.bat
