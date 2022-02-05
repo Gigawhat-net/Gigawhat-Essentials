@@ -46,4 +46,4 @@ jobs:
       - run: gradle build
 
       - store_artifacts:
-          path: /tmp/artifacts
+          path: ~/repo/artifacts
