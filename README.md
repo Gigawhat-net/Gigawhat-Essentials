@@ -9,6 +9,8 @@
 	|
 	<a href=""><img src="https://img.shields.io/github/languages/top/samyarsadat/Gigawhat-Essentials?color=blueviolet"></a>
 	|
+	<a href=""><img src="https://img.shields.io/badge/mod%20loader-Forge-green"></a>
+	|
 	<a href=""><img src="https://img.shields.io/github/license/samyarsadat/Gigawhat-Essentials?color=blue"> </a>
 	|
 	<a href=""><img src="https://img.shields.io/github/v/release/samyarsadat/Gigawhat-Essentials?display_name=tag&include_prereleases&label=version"> </a>
