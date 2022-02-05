@@ -1,21 +1,22 @@
-![](https://img.shields.io/circleci/build/github/samyarsadat/Gigawhat-Essentials) ![](https://img.shields.io/github/languages/top/samyarsadat/Gigawhat-Essentials?color=blueviolet) ![](https://img.shields.io/github/license/samyarsadat/Gigawhat-Essentials?color=blue) ![](https://img.shields.io/github/v/release/samyarsadat/Gigawhat-Essentials?display_name=tag&include_prereleases&label=version) ![](https://img.shields.io/github/issues/samyarsadat/Gigawhat-Essentials)
+<center>
+	<img src="">
+	<h1>_Gigawhat Essentials_</h1><br>
+	<a href=""><img src="https://img.shields.io/circleci/build/github/samyarsadat/Gigawhat-Essentials"></a>
+	|
+	<a href=""><img src="https://img.shields.io/github/languages/top/samyarsadat/Gigawhat-Essentials?color=blueviolet"></a>
+	|
+	<a href=""><img src="https://img.shields.io/github/license/samyarsadat/Gigawhat-Essentials?color=blue"> </a>
+	|
+	<a href=""><img src="https://img.shields.io/github/v/release/samyarsadat/Gigawhat-Essentials?display_name=tag&include_prereleases&label=version"> </a>
+	|
+	<a href=""><img src="https://img.shields.io/github/issues/samyarsadat/Gigawhat-Essentials"> </a>
+	<br><br>
+</center>
 
-<p align="center">
-  <b><h2>Gigawhat Essentials</h2></b><br>
-  <a href=""><img src="https://img.shields.io/circleci/build/github/samyarsadat/Gigawhat-Essentials"></a>
-  |
-  <a href=""><img src="https://img.shields.io/github/languages/top/samyarsadat/Gigawhat-Essentials?color=blueviolet"></a>
-  |
-  <a href=""><img src="https://img.shields.io/github/license/samyarsadat/Gigawhat-Essentials?color=blue"> </a>
-  |
-  <a href=""><img src="mg.shields.io/github/v/release/samyarsadat/Gigawhat-Essentials?display_name=tag&include_prereleases&label=version"> </a>
-  <br><br>
-  <img src="">
-</p>
 # Gigamod
-
+----
 Gigawhat Essentials a mod by Gigawhat. <br>
- <br>
+<br>
 
 ## Credits :
 
