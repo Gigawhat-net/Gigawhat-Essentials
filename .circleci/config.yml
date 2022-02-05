@@ -44,3 +44,7 @@ jobs:
 
       # run tests!
       - run: gradle build
+             mkdir /tmp/artifacts;
+
+      - store_artifacts:
+          path: /tmp/artifacts
