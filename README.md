@@ -1,6 +1,11 @@
 <p align="center">
-    <a href=""><img src="" width="200"></a>
-    <h2 align="center">Gigawhat Essetnials</h2>
+  <a href="">
+    <img src="https://raw.githubusercontent.com/samyarsadat/Gigawhat-Essentials/dev/docs/images/GIGAWHAT_ESSENTIALS_LOGO.png" height="200">
+  </a>
+</p>
+<h2 align="center">Gigawhat Essetnials</h2>
+<br>
+<p align="center">
 	<a href=""><img src="https://img.shields.io/circleci/build/github/samyarsadat/Gigawhat-Essentials"></a>
 	|
 	<a href=""><img src="https://img.shields.io/github/languages/top/samyarsadat/Gigawhat-Essentials?color=blueviolet"></a>
