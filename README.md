@@ -3,7 +3,6 @@
     <img src="https://raw.githubusercontent.com/samyarsadat/Gigawhat-Essentials/dev/docs/images/GIGAWHAT_ESSENTIALS_LOGO.png">
   </a>
 </p>
-<h2 align="center">Gigawhat Essetnials</h2>
 <br>
 <p align="center">
 	<a href=""><img src="https://img.shields.io/circleci/build/github/samyarsadat/Gigawhat-Essentials"></a>
