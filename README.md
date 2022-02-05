@@ -1,6 +1,6 @@
 <p align="center">
   <a href="">
-    <img src="https://raw.githubusercontent.com/samyarsadat/Gigawhat-Essentials/dev/docs/images/GIGAWHAT_ESSENTIALS_LOGO.png" height="200">
+    <img src="https://raw.githubusercontent.com/samyarsadat/Gigawhat-Essentials/dev/docs/images/GIGAWHAT_ESSENTIALS_LOGO.png">
   </a>
 </p>
 <h2 align="center">Gigawhat Essetnials</h2>
