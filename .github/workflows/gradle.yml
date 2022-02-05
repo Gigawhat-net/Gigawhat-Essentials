@@ -32,4 +32,4 @@ jobs:
     - uses: actions/upload-artifact@v2
       with:
         name: Save jar file
-        path: builds
+        path: builds/latest-build-from-latest-commit.jar
