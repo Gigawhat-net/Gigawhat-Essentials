@@ -4,6 +4,7 @@ bin
 .metadata
 .classpath
 .project
+.vscode
 
 out
 *.ipr
