@@ -1,9 +1,15 @@
 <p align="center">
-    <a href=""><img src="" width="200"></a>
-    <h2 align="center">Gigawhat Essetnials</h2>
+  <a href="">
+    <img src="https://raw.githubusercontent.com/samyarsadat/Gigawhat-Essentials/dev/docs/images/GIGAWHAT_ESSENTIALS_LOGO.png">
+  </a>
+</p>
+<br>
+<p align="center">
 	<a href=""><img src="https://img.shields.io/circleci/build/github/samyarsadat/Gigawhat-Essentials"></a>
 	|
 	<a href=""><img src="https://img.shields.io/github/languages/top/samyarsadat/Gigawhat-Essentials?color=blueviolet"></a>
+	|
+	<a href=""><img src="https://img.shields.io/badge/mod%20loader-Forge-orange"></a>
 	|
 	<a href=""><img src="https://img.shields.io/github/license/samyarsadat/Gigawhat-Essentials?color=blue"> </a>
 	|
