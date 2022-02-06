@@ -35,8 +35,3 @@ jobs:
       with:
         name: Gigawhat Essentials mod jars
         path: jars/
-  
-    - name: Download archived jar file
-      uses: actions/download-artifact@v2
-      with:
-        name: build
