@@ -7,11 +7,11 @@
 	A Forge mod based on the EssentialsX plugin suite.<br>
 	<br>
   	<br>
-  	<a href="https://se-wiki.wurmatron.io/">Wiki (WIP)</a>
+  	<a href="">Wiki (WIP)</a>
   	|
-  	<a href="https://discord.gg/n6RFDUc">Discord (WIP)</a>
+  	<a href="">Discord (WIP)</a>
 	|
-  	<a href="https://gigawhat.net/gigawhat_essentials">Website (WIP)</a>
+  	<a href="">Website (WIP)</a>
   	<br>
 	<br>
 	<a href=""><img src="https://img.shields.io/circleci/build/github/samyarsadat/Gigawhat-Essentials"></a>
