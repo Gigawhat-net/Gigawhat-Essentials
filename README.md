@@ -6,11 +6,11 @@
 <p align="center">
 	A Forge mod based on the EssentialsX plugin suite.<br>
 	<br>
-  	<a href="">Wiki (WIP)</a>
+  	<a href="https://github.com/samyarsadat/Gigawhat-Essentials/wiki">Wiki (WIP)</a>
   	|
-  	<a href="">Discord (WIP)</a>
+  	<a href="https://discord.gg/rMq7GujUZJ">Discord (WIP)</a>
 	|
-  	<a href="">Website (WIP)</a>
+  	<a href="https://gigawhat.net">Website (WIP)</a>
   	<br>
 	<br>
 	<img src="https://img.shields.io/circleci/build/github/samyarsadat/Gigawhat-Essentials">
