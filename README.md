@@ -3,8 +3,17 @@
     <img src="https://raw.githubusercontent.com/samyarsadat/Gigawhat-Essentials/dev/docs/images/GIGAWHAT_ESSENTIALS_LOGO.png">
   </a>
 </p>
-<br>
 <p align="center">
+	A Forge mod based on the EssentialsX plugin suite.<br>
+	<br>
+  	<br>
+  	<a href="https://se-wiki.wurmatron.io/">Wiki (WIP)</a>
+  	|
+  	<a href="https://discord.gg/n6RFDUc">Discord (WIP)</a>
+	|
+  	<a href="https://gigawhat.net/gigawhat_essentials">Website (WIP)</a>
+  	<br>
+	<br>
 	<a href=""><img src="https://img.shields.io/circleci/build/github/samyarsadat/Gigawhat-Essentials"></a>
 	|
 	<a href=""><img src="https://img.shields.io/github/languages/top/samyarsadat/Gigawhat-Essentials?color=blueviolet"></a>
