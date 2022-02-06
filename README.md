@@ -55,4 +55,4 @@ We also have plans to add features from some popular plugins to the mod. Of cour
 
 ### README Is work in progress!
 
-Copyright © 2022 Gigawhat Programing Team.
+Copyright © 2021-2022 Gigawhat Programing Team.
