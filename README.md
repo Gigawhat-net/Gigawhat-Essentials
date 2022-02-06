@@ -29,7 +29,7 @@
 </p>
 
 ----
-<h1>README is work in progress!</h1>
+<h2>Disclaimer: Mod is still in early development.</h2>
 <br>
 
 Gigawhat Essentials is based on the EssentialsX plugin suite: https://github.com/EssentialsX/Essentials
@@ -42,6 +42,14 @@ We also have plans to add features from some popular plugins to the mod. Of cour
 <br>
 
 ## Features :
+   - *Currently none. The mod is still in early development.*
+
+## Planned Features :
+   - ***Almost all of EssetnialX's commands and features.** (This includes all offical EssentialsX add-ons)*
+   - ***Highly advanced and customizable permission system.***
+   - ***Features from some popular plugins to the mod.***
+
+<h2>README Is work in progress!</h2>
 
 
 
