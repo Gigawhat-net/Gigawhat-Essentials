@@ -6,7 +6,6 @@
 <p align="center">
 	A Forge mod based on the EssentialsX plugin suite.<br>
 	<br>
-  	<br>
   	<a href="">Wiki (WIP)</a>
   	|
   	<a href="">Discord (WIP)</a>
