@@ -30,6 +30,11 @@ jobs:
       with:
         arguments: build
         
+    - name: Download archived jar file
+      uses: actions/download-artifact@v2
+      with:
+        name: JAR_FILES
+        
     - name: Archive plugin jars on GitHub
       uses: actions/upload-artifact@master
       with:
