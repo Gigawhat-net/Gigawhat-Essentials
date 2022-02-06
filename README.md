@@ -46,7 +46,7 @@ We also have plans to add features from some popular plugins to the mod. Of cour
 <br>
 
 ### Planned Features :
-   - ***Almost all of EssetnialX's commands and features.** (This includes all offical EssentialsX add-ons)*
+   - ***Almost all of EssetnialX's commands and features.** (This includes all official EssentialsX add-ons)*
    - ***Highly advanced and customizable permission system.***
    - ***Features from some popular plugins to the mod.***
 
