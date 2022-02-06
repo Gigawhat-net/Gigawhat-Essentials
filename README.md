@@ -41,16 +41,8 @@ We also have plans to add features from some popular plugins to the mod. Of cour
 <br>
 <br>
 
-## Credits :
+## Features :
 
-#### ---- Code ----
 
-Lead developer : Samyar Sadat Akhavi. <br>
-<br>
 
-#### ---- Testing ----
-
-Gigawhat Programing Team. <br>
-<br>
-<br>
 Copyright © 2021 Gigawhat Programing Team.
