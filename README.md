@@ -39,7 +39,6 @@ This mod is made for people that want to run Forge mods and EssentialsX at the s
 Usually, to do this you would use <a href="https://github.com/MohistMC">Mohist</a> or <a href="https://github.com/magmafoundation">Magma</a> but because the Forge API and the Bukkit API were not designed to run together, major issues and or bugs could occur.<br>
 We also have plans to add features from some popular plugins to the mod. Of course, they would be optional and fully customizable.<br>
 <br>
-<br>
 
 ### Features :
    - *Currently none. The mod is still in early development.*
