@@ -34,9 +34,6 @@ jobs:
       uses: actions/upload-artifact@master
       with:
         name: JAR_FILES
-        path: jars/
+        path: builds/
         
-    - name: Download archived jar file
-      uses: actions/download-artifact@v2
-      with:
-        name: JAR_FILES
+
