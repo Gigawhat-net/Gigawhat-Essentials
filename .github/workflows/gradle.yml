@@ -33,5 +33,10 @@ jobs:
     - name: Archive plugin jars on GitHub
       uses: actions/upload-artifact@master
       with:
-        name: Gigawhat Essentials mod jars
+        name: JAR_FILES
         path: jars/
+        
+    - name: Download archived jar file
+      uses: actions/download-artifact@v2
+      with:
+        name: JAR_FILES
