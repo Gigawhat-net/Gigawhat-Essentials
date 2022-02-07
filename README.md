@@ -56,7 +56,8 @@ We also have plans to add features from some popular plugins to the mod. Of cour
 
 ## Support :
 You can get support on the <a href="https://discord.gg/rMq7GujUZJ">Discord server</a>. Both staff and community members will be able to answer your questions.<br>
-You can also contact us via e-mail. E-mail: gpt-support@gigawhat.net
+You can also contact us via e-mail.<br>
+E-mail: gpt-support@gigawhat.net
 <br>
 <br>
 If you think that you have found a bug please report it <a href="https://github.com/samyarsadat/Gigawhat-Essentials/issues">here</a>.
