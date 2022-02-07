@@ -40,6 +40,8 @@ Usually, to do this you would use <a href="https://github.com/MohistMC">Mohist</
 We also have plans to add features from some popular plugins to the mod. Of course, they would be optional and fully customizable.<br>
 <br>
 
+## Features :
+
 ### Features :
    - *Currently none. The mod is still in early development.*
 
@@ -51,6 +53,13 @@ We also have plans to add features from some popular plugins to the mod. Of cour
    - ***Features from some popular plugins to the mod.***
 
 <br>
+
+## Support :
+You can get support on the <a href="https://discord.gg/rMq7GujUZJ">Discord server</a>. Both staff and community members will be able to answer your questions.<br>
+You can also contact us via e-mail. E-mail: gpt-support@gigawhat.net
+<br>
+<br>
+If you think that you have found a bug please report it <a href="https://github.com/samyarsadat/Gigawhat-Essentials/issues">here</a>.
 
 ### README Is work in progress!
 
