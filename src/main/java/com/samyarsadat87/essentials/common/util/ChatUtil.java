@@ -16,7 +16,7 @@
  * along with this program. If not, see <https://www.gnu.org/licenses/>.
  * 
  * For further inquiries you can contact the Gigawhat Programming Team via e-mail:
- * contact-gpt@gigawhat.net
+ * contact.gpt@gigawhat.net
  */
 
 package com.samyarsadat87.essentials.common.util;
