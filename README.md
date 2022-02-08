@@ -59,6 +59,27 @@ E-mail: support.gpt@gigawhat.net
 <br>
 If you think that you have found a bug please report it <a href="https://github.com/samyarsadat/Gigawhat-Essentials/issues">here</a>.
 
-### README Is work in progress!
+<br>
+
+## Contributing :
+
+Please take a look at <a href="https://github.com/samyarsadat/Gigawhat-Essentials/blob/dev/CONTRIBUTING.md">CONTRIBUTING.md</a> for contributing.
+
+<br>
+
+## Credits :
+
+| Role           | Name                |
+| -------------- | ------------------- |
+| Lead Developer | Samyar Sadat Akhavi |
+| Developer      | Ekin Aksu           |
+| Assets         | Hikmet Umut Bulut   |
+
+### Special Thanks :
+   - <a href="https://github.com/Wurmatron">Wurmatron</a>
+   - Rüzgar Kaya
+
+<br>
+<br>
 
 Copyright © 2021-2022 Gigawhat Programing Team.
