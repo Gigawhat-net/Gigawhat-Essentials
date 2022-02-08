@@ -82,4 +82,4 @@ Please take a look at <a href="https://github.com/samyarsadat/Gigawhat-Essential
 <br>
 <br>
 
-Copyright © 2021-2022 Gigawhat Programing Team.
+Copyright © 2021-2022 Gigawhat Programming Team.
