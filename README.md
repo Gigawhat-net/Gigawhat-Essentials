@@ -45,7 +45,6 @@ We also have plans to add features from some popular plugins to the mod. Of cour
 ### Features :
    - *Currently none. The mod is still in early development.*
 
-<br>
 
 ### Planned Features :
    - ***Almost all of EssetnialX's commands and features.** (This includes all official EssentialsX add-ons)*
