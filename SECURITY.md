@@ -13,7 +13,7 @@ The ones marked with :x: have a known vulnerability and ***should NOT be used!**
 ## Reporting a Vulnerability
 
 If you have found a security vulnerability, you can report it via e-mail.<br>
-E-mail: contact-gpt@gigawhat.net
+E-mail: contact.gpt@gigawhat.net
 <br>
 <br>
 ***DO NOT USE GITHUB ISSUES FOR REPORTING A VULNERABILITY.<br>
