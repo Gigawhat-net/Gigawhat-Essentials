@@ -18,7 +18,7 @@
 	|
 	<a href="https://files.minecraftforge.net/net/minecraftforge/forge/index_1.16.5.html"><img src="https://img.shields.io/badge/mod%20loader-Forge-orange"></a>
 	|
-	<a href="https://www.gnu.org/licenses/gpl-3.0.en.html"><img src="https://img.shields.io/github/license/samyarsadat/Gigawhat-Essentials?color=blue"></a>
+	<a href="https://github.com/samyarsadat/Gigawhat-Essentials/blob/dev/LICENSE"><img src="https://img.shields.io/github/license/samyarsadat/Gigawhat-Essentials?color=blue"></a>
 	|
 	<a href="https://github.com/samyarsadat/Gigawhat-Essentials/releases"><img src="https://img.shields.io/github/v/release/samyarsadat/Gigawhat-Essentials?display_name=tag&include_prereleases&label=version"></a>
 	|
