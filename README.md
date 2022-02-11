@@ -28,8 +28,10 @@
 
 ----
 ## Disclaimer: Mod is still in early development.
-<br>
 
+***Note:** Before installing any version of the mod, be sure to check <a href="https://github.com/samyarsadat/Gigawhat-Essentials/blob/dev/SECURITY.md">SECURITY.md</a>*
+
+<br>
 Gigawhat Essentials is based on the EssentialsX plugin suite: https://github.com/EssentialsX/Essentials
 <br>
 <br>
