@@ -13,7 +13,7 @@
  * GNU General Public License for more details.
  * 
  * You should have received a copy of the GNU General Public License
- * along with this program. If not, see <https://www.gnu.org/licenses/>.
+ * along with this program.  If not, see <https://www.gnu.org/licenses/>.
  * 
  * For further inquiries you can contact the Gigawhat Programming Team via e-mail:
  * contact.gpt@gigawhat.net
