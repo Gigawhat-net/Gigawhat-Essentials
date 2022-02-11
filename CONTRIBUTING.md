@@ -10,6 +10,10 @@ Want to help improve Gigawhat Essentials? There are several ways you can contrib
 <br>
 
 ## Submitting a PR :
+Gigawhat Essentials has two PR templates one for bug fixes and another for new features :
+
+   - Bug Fixes (Template is WIP)
+   - New Features (Template is WIP)
 
 <br>
 
