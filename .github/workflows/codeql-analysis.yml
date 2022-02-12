@@ -69,8 +69,8 @@ jobs:
     - name: Perform CodeQL Analysis
       uses: github/codeql-action/analyze@v1
       
-    - name: Archive artifacts on GitHub
-      uses: actions/upload-artifact@master
+    - name: Archive jars on GitHub
+      uses: actions/upload-artifact@v2
       with:
-        name: ARTIFACTS
-        path: artifacts/
+        name: JAR_FILE
+        path: build/libs/
