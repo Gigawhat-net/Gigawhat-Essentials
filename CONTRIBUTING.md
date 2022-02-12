@@ -12,8 +12,8 @@ Want to help improve Gigawhat Essentials? There are several ways you can contrib
 ## Submitting a PR :
 Gigawhat Essentials has two PR templates one for bug fixes and another for new features :
 
-   - Bug Fixes (Template is WIP)
-   - New Features (Template is WIP)
+   - <a href="https://github.com/Gigawhat-net/Gigawhat-Essentials/blob/dev/.github/PULL_REQUEST_TEMPLATE/bug-fix.md">Bug Fixes</a>
+   - <a href="https://github.com/Gigawhat-net/Gigawhat-Essentials/blob/dev/.github/PULL_REQUEST_TEMPLATE/new-feature.md">New Features</a>
 
 <br>
 
