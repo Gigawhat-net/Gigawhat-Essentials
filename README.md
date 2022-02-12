@@ -1,35 +1,35 @@
 <p align="center">
-  <a href="https://github.com/samyarsadat/Gigawhat-Essentials">
-    <img src="https://raw.githubusercontent.com/samyarsadat/Gigawhat-Essentials/dev/docs/images/GIGAWHAT_ESSENTIALS_LOGO.png">
+  <a href="https://github.com/Gigawhat-net/Gigawhat-Essentials">
+    <img src="https://raw.githubusercontent.com//Gigawhat-net/Gigawhat-Essentials/dev/docs/images/GIGAWHAT_ESSENTIALS_LOGO.png">
   </a>
 </p>
 <p align="center">
 	A Forge mod based on the EssentialsX plugin suite.
 	<br>
 	<br>
-  	<a href="https://github.com/samyarsadat/Gigawhat-Essentials/wiki">Wiki (WIP)</a>
+  	<a href="https://github.com/Gigawhat-net/Gigawhat-Essentials/wiki">Wiki (WIP)</a>
   	|
   	<a href="https://discord.gg/rMq7GujUZJ">Discord (WIP)</a>
 	|
   	<a href="https://gigawhat.net">Website (WIP)</a>
   	<br>
 	<br>
-	<a href="https://github.com/samyarsadat/Gigawhat-Essentials/actions/workflows/codeql-analysis.yml"><img src="https://github.com/samyarsadat/Gigawhat-Essentials/actions/workflows/codeql-analysis.yml/badge.svg"></a>
+	<a href="https://github.com/Gigawhat-net/Gigawhat-Essentials/actions/workflows/codeql-analysis.yml"><img src="https://github.com/Gigawhat-net/Gigawhat-Essentials/actions/workflows/codeql-analysis.yml/badge.svg"></a>
 	|
 	<a href="https://files.minecraftforge.net/net/minecraftforge/forge/index_1.16.5.html"><img src="https://img.shields.io/badge/mod%20loader-Forge-orange"></a>
 	|
-	<a href="https://github.com/samyarsadat/Gigawhat-Essentials/blob/dev/LICENSE"><img src="https://img.shields.io/github/license/samyarsadat/Gigawhat-Essentials?color=blue"></a>
+	<a href="https://github.com/Gigawhat-net/Gigawhat-Essentials/blob/dev/LICENSE"><img src="https://img.shields.io/github/license/Gigawhat-net/Gigawhat-Essentials?color=blue"></a>
 	|
-	<a href="https://github.com/samyarsadat/Gigawhat-Essentials/releases"><img src="https://img.shields.io/github/v/release/samyarsadat/Gigawhat-Essentials?display_name=tag&include_prereleases&label=version"></a>
+	<a href="https://github.com/Gigawhat-net/Gigawhat-Essentials/releases"><img src="https://img.shields.io/github/v/release/Gigawhat-net/Gigawhat-Essentials?display_name=tag&include_prereleases&label=version"></a>
 	|
-	<a href="https://github.com/samyarsadat/Gigawhat-Essentials/issues"><img src="https://img.shields.io/github/issues/samyarsadat/Gigawhat-Essentials"></a>
+	<a href="https://github.com/Gigawhat-net/Gigawhat-Essentials/issues"><img src="https://img.shields.io/github/issues/Gigawhat-net/Gigawhat-Essentials"></a>
 	<br><br>
 </p>
 
 ----
 ## Disclaimer: Mod is still in early development.
 
-***Note:** Before installing any version of the mod, be sure to check <a href="https://github.com/samyarsadat/Gigawhat-Essentials/blob/dev/SECURITY.md">SECURITY.md</a>*
+***Note:** Before installing any version of the mod, be sure to check <a href="https://github.com/Gigawhat-net/Gigawhat-Essentials/blob/dev/SECURITY.md">SECURITY.md</a>*
 
 <br>
 Gigawhat Essentials is based on the EssentialsX plugin suite: https://github.com/EssentialsX/Essentials
@@ -61,13 +61,13 @@ You can also contact us via e-mail.<br>
 E-mail: support.gpt@gigawhat.net
 <br>
 <br>
-If you think that you have found a bug please report it <a href="https://github.com/samyarsadat/Gigawhat-Essentials/issues">here</a>.
+If you think that you have found a bug please report it <a href="https://github.com/Gigawhat-net/Gigawhat-Essentials/issues">here</a>.
 
 <br>
 
 ## Contributing :
 
-Please take a look at <a href="https://github.com/samyarsadat/Gigawhat-Essentials/blob/dev/CONTRIBUTING.md">CONTRIBUTING.md</a> for contributing.
+Please take a look at <a href="https://github.com/Gigawhat-net/Gigawhat-Essentials/blob/dev/CONTRIBUTING.md">CONTRIBUTING.md</a> for contributing.
 
 <br>
 
