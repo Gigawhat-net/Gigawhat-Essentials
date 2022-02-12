@@ -1,0 +1,12 @@
+
+blank_issues_enabled: true
+
+contact_links:
+
+  - name: Contact us through e-mail
+    url: mailto:contact.gpt@gigawhat.net
+    about: Contact us through e-mail.
+
+  - name: Get help on our Discord server
+    url: https://discord.gg/rMq7GujUZJ
+    about: Join the Gigawhat Discord server.
