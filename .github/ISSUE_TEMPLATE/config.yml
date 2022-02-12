@@ -6,17 +6,13 @@ contact_links:
     url: https://github.com/Gigawhat-net/Gigawhat-Essentials/discussions/categories/q-a
     about: Visit the Q&A forum to search for previous help requests.
 
-  - name: Check past feature suggestions
+  - name: Discuss features
     url: 
-    about: Visit the Feature Suggestions forum to view and discuss existing feature suggestions.
+    about: Discuss features on the forum before suggesting them.
 
   - name: Create help request
     url: https://github.com/Gigawhat-net/Gigawhat-Essentials/discussions/new?category=q-a
     about: Create a support ticket to get help from developers.
-
-  - name: Suggest a feature
-    url: 
-    about: Suggest new features for Gigawhat Essentials.
 
   - name: Get help on our Discord server
     url: https://discord.gg/rMq7GujUZJ
