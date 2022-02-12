@@ -17,4 +17,4 @@ Gigawhat Essentials has two PR templates one for bug fixes and another for new f
 
 <br>
 
-By contributing to Gigawhat Essentials, you agree to license your code under the <a href="https://github.com/Gigawhat-net/Gigawhat-Essentials/blob/dev/LICENSE">GNU General Public License version 3</a>.
+By contributing to Gigawhat Essentials, you agree to license your code under the <a href="https://github.com/Gigawhat-net/Gigawhat-Essentials/blob/dev/LICENSE">GNU GPL-3.0</a>.
