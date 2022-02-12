@@ -80,7 +80,6 @@ Please take a look at <a href="https://github.com/Gigawhat-net/Gigawhat-Essentia
 
 ### Special Thanks :
    - <a href="https://github.com/Wurmatron">Wurmatron</a>
-   - Rüzgar Kaya
 
 <br>
 <br>
