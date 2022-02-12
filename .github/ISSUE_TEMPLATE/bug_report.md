@@ -23,7 +23,7 @@ A clear and concise description of what you expected to happen.
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
-**Logs**
+**Logs (If applicable)**
 <a href="https://gist.github.com/">Create a GitHub Gist</a>, paste your logs, and link the gist here.
 
 **Version (please complete the following information):**
