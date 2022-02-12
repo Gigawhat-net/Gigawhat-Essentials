@@ -8,22 +8,8 @@ version = "0.2.0"
 displayName = "Gigawhat Essentials (Beta)"
 #logoFile = "examplemod.png"
 authors = "Gigawhat Programing Team"
-credits = "Samyar Sadat Akhavi, Hikmet Umut Bulut, Ekin Aksu"
+credits = "Samyar Sadat Akhavi, Hikmet Umut Bulut"
 description = '''
-Gigawhat Essentials, a mod by Gigawhat.
-
-
-
-§6§l§o------- Credits -------§r
-
-§b§o---- Code ----§r
-§7Lead developer : Samyar Sadat Akhavi
-§7Developer : Ekin Aksu
-
-§a§o---- Testing ----§r
-§7Gigawhat Programing Team
-
-
 Gigawhat Essentials, A mod based on the EssentialsX plugin suite.
 Copyright (C) 2021-2022 Gigawhat Programming Team.
 
