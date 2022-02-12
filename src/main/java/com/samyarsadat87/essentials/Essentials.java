@@ -59,7 +59,7 @@ public class Essentials
         LOGGER.info("Init stage complete.");
     }
 
-    private void directory_init()
+    /*private void directory_init()
     {
         if (!FileUtils.dirExists("mods/Gigawhat-Essentials/groups"))
         {
@@ -102,7 +102,7 @@ public class Essentials
         {
             LOGGER.info("Warps directory is present.");
         }
-    }
+    }*/
 
     private void setup(final FMLCommonSetupEvent event)
     {
