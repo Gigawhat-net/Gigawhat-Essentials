@@ -2,7 +2,7 @@
     Failure to fill out this template properly may result in your PR being ignored without warning. 
     
     Gigawhat Essentials is licensed under GNU GPL-3.0 license, By contributing to Gigawhat Essentials
-    You agree to license your code under the GNU GPL-3.0 license, wich can be found here: https://github.com/Gigawhat-net/Gigawhat-Essentials/blob/dev/LICENSE
+    You agree to license your code under the GNU GPL-3.0 license, which can be found here: https://github.com/Gigawhat-net/Gigawhat-Essentials/blob/dev/LICENSE
 -->
 
 
@@ -32,5 +32,5 @@ This PR fixes #gggg.
 
 <!--
     Include screenshots/log snippets from before and after as necessary. If you have created a test case mod, please link to a
-    download of the mod, source code and exact version used where possible.
+    download of the mod, source code, and exact version used where possible.
 -->
