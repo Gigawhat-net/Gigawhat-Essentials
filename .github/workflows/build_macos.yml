@@ -40,7 +40,7 @@ jobs:
         ./gradlew build --stacktrace
         
     - name: Archive jars on GitHub
-      uses: actions/upload-artifact@master
+      uses: actions/upload-artifact@v2
       with:
-        name: JAR_FILES
+        name: JAR_FILE
         path: build/libs/
