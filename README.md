@@ -14,7 +14,7 @@
   	<a href="https://gigawhat.net">Website (WIP)</a>
   	<br>
 	<br>
-	<a href="https://github.com/samyarsadat/Gigawhat-Essentials"><img src="https://img.shields.io/circleci/build/github/samyarsadat/Gigawhat-Essentials"></a>
+	<a href="https://github.com/samyarsadat/Gigawhat-Essentials/actions/workflows/codeql-analysis.yml"><img src="https://github.com/samyarsadat/Gigawhat-Essentials/actions/workflows/codeql-analysis.yml/badge.svg"></a>
 	|
 	<a href="https://files.minecraftforge.net/net/minecraftforge/forge/index_1.16.5.html"><img src="https://img.shields.io/badge/mod%20loader-Forge-orange"></a>
 	|
