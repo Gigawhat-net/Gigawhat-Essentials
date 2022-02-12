@@ -27,7 +27,7 @@
 </p>
 
 ----
-## Disclaimer: Mod is still in early development.
+## Disclaimer: Mod is in early development.
 
 ***Note:** Before installing any version of the mod, be sure to check <a href="https://github.com/Gigawhat-net/Gigawhat-Essentials/blob/dev/SECURITY.md">SECURITY.md</a>*
 
