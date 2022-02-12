@@ -10,8 +10,6 @@ jobs:
   build:
     name: Build and upload jar file
     runs-on: ubuntu-latest
-    
-    environment: build
 
     steps:
     - name: Checkout Git repo
