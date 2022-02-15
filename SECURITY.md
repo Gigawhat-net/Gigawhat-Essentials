@@ -8,7 +8,7 @@ The ones marked with :x: have a known vulnerability or are no longer supported t
 
 | Version | Supported          |
 | ------- | ------------------ |
-|         |                    |
+| N/A     | N/A                |
 
 ## Reporting a Vulnerability
 
