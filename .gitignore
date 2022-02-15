@@ -24,3 +24,6 @@ forge*changelog.txt
 debug.bat
 jar-build.bat
 setup.bat
+
+src/generated
+src/test
