@@ -28,6 +28,7 @@
 
 ----
 ## Disclaimer: Mod is in early development.
+### Note: I am currently working on the <a href="https://www.gigawhat.net">Gigawhat website</a>. Development Gigawhat Essentials will begin soon.
 
 ***Note:** Before installing any version of the mod, be sure to check <a href="https://github.com/Gigawhat-net/Gigawhat-Essentials/blob/dev/SECURITY.md">SECURITY.md</a>*
 
