@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Gigawhat-net/Gigawhat-Essentials">
-    <img src="https://raw.githubusercontent.com/Gigawhat-net/Gigawhat-Essentials/.github/images/GIGAWHAT_ESSENTIALS_LOGO.png">
+    <img src="https://raw.githubusercontent.com/Gigawhat-net/Gigawhat-Essentials/dev/.github/images/GIGAWHAT_ESSENTIALS_LOGO.png">
   </a>
 </p>
 <p align="center">
