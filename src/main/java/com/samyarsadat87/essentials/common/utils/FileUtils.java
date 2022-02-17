@@ -19,7 +19,7 @@
  * contact.gpt@gigawhat.net
  */
 
-package com.samyarsadat87.essentials.common.util;
+package com.samyarsadat87.essentials.common.utils;
 
 import java.io.BufferedWriter;
 import java.io.File;

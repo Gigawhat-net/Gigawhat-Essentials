@@ -21,7 +21,7 @@
 
 package com.samyarsadat87.essentials;
 
-import com.samyarsadat87.essentials.common.util.FileUtils;
+import com.samyarsadat87.essentials.common.utils.FileUtils;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
