@@ -19,9 +19,7 @@
  * contact.gpt@gigawhat.net
  */
 
-package com.samyarsadat87.essentials;
-
-import com.samyarsadat87.essentials.common.utils.FileUtils;
+package net.gigawhat.essentials;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;

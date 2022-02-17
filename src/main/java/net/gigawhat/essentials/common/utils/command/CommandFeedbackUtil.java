@@ -19,7 +19,7 @@
  * contact.gpt@gigawhat.net
  */
 
-package com.samyarsadat87.essentials.common.utils.command;
+package net.gigawhat.essentials.common.utils.command;
 
 import net.minecraft.command.CommandSource;
 
