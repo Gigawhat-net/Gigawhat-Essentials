@@ -19,7 +19,7 @@
  * contact.gpt@gigawhat.net
  */
 
-package net.gigawhat.essentials.common.utils;
+package net.gigawhat.gigawhat_essentials.common.utils;
 
 public class ChatUtil 
 {

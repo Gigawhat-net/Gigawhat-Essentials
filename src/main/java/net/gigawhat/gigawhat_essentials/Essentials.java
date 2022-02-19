@@ -19,7 +19,7 @@
  * contact.gpt@gigawhat.net
  */
 
-package net.gigawhat.essentials;
+package net.gigawhat.gigawhat_essentials;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;

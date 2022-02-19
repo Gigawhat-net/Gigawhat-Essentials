@@ -19,7 +19,7 @@
  * contact.gpt@gigawhat.net
  */
 
-package net.gigawhat.essentials.common.utils;
+package net.gigawhat.gigawhat_essentials.common.utils;
 
 import java.io.BufferedWriter;
 import java.io.File;
@@ -33,7 +33,7 @@ import java.util.Map;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 
-import net.gigawhat.essentials.Essentials;
+import net.gigawhat.gigawhat_essentials.Essentials;
 
 public class FileUtils 
 {

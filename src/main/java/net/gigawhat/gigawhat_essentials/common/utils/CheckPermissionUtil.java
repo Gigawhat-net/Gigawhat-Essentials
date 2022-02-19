@@ -19,7 +19,7 @@
  * contact.gpt@gigawhat.net
  */
 
-package net.gigawhat.essentials.common.utils;
+package net.gigawhat.gigawhat_essentials.common.utils;
 
 import java.io.File;
 import java.io.Reader;
@@ -29,7 +29,7 @@ import java.nio.file.Paths;
 import com.google.gson.JsonObject;
 import com.google.gson.JsonParser;
 
-import net.gigawhat.essentials.Essentials;
+import net.gigawhat.gigawhat_essentials.Essentials;
 import net.minecraft.entity.player.ServerPlayerEntity;
 
 public class CheckPermissionUtil 
