@@ -1,11 +1,11 @@
 modLoader = "javafml"
-loaderVersion = "[36.2,)"
+loaderVersion = "[40,)"
 license = "GPL-3.0"
 
 [[mods]] 
 modId = "gigawhat_essentials" 
-version = "0.2.0"
-displayName = "Gigawhat Essentials (Beta)"
+version = "0.1.0"
+displayName = "Gigawhat Essentials"
 #logoFile = "examplemod.png"
 authors = "Gigawhat Programing Team"
 credits = "Samyar Sadat Akhavi, Hikmet Umut Bulut"
@@ -33,7 +33,7 @@ contact-gpt@gigawhat.net'''
 
     modId = "forge"
     mandatory = true
-    versionRange = "[36.2,)"
+    versionRange = "[40,)"
     ordering = "NONE"
     side = "SERVER"
 
@@ -41,6 +41,6 @@ contact-gpt@gigawhat.net'''
 
     modId = "minecraft"
     mandatory = true
-    versionRange = "[1.16, 1.16.5)"
+    versionRange = "[1.18, 1.18.2)"
     ordering = "NONE"
     side = "SERVER"
