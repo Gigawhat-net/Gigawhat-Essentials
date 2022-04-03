@@ -24,7 +24,6 @@ package net.gigawhat.gigawhat_essentials;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
-import net.minecraft.util.text.TextFormatting;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.fml.common.Mod;
@@ -38,12 +37,10 @@ public class Essentials
     public static final Logger LOGGER = LogManager.getLogger();
     public static final String MOD_ID = "gigawhat_essentials";
 
-    public static final String PREFIX = "GMU";
-    public static final TextFormatting PREFIX_COLOR = TextFormatting.LIGHT_PURPLE;
-
-    public static final TextFormatting MESSAGE_COLOR = TextFormatting.GOLD;
-    public static final TextFormatting ERROR_COLOR = TextFormatting.RED;
-    public static final TextFormatting VARIABLE_COLOR = TextFormatting.DARK_RED;
+    public static final String PREFIX = "\u00A7bServer";
+    public static final String MESSAGE_COLOR = "\u00A76";
+    public static final String ERROR_COLOR = "\u00A7c";
+    public static final String VARIABLE_COLOR = "\u00A74";
 
     public Essentials()
     {
