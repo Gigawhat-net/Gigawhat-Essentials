@@ -30,11 +30,12 @@ import com.google.gson.JsonObject;
 import com.google.gson.JsonParser;
 
 import net.gigawhat.gigawhat_essentials.Essentials;
-import net.minecraft.entity.player.ServerPlayerEntity;
+import net.minecraft.server.level.ServerPlayer;
+import net.minecraft.world.entity.player.Player;
 
 public class CheckPermissionUtil 
 {
-    public static boolean checkPerm(String permission, ServerPlayerEntity player)
+    public static boolean checkPerm(String permission, ServerPlayer player)
     {
         String playerGroup = player.getPersistentData().getString(Essentials.MOD_ID + ":group");
         Essentials.LOGGER.info("PLAYER GROUP DATA : " + playerGroup);
