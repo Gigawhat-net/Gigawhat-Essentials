@@ -2,17 +2,17 @@ name: Build on Windows latest
 
 on:
   push:
-    branches: [ dev ]
+    branches: [dev, 1.18.x]
   pull_request:
-    branches: [ dev ]
+    branches: [dev, 1.18.x]
 
 jobs:
   build:
-    name: Build and upload jar file
+    name: Build and upload jar file (Windows)
     runs-on: windows-latest
 
     steps:
-    - name: Checkout Git repo
+    - name: Get latest code
       uses: actions/checkout@v2
       with:
         fetch-depth: 0
